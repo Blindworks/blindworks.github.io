@@ -35,4 +35,4 @@ I build pragmatic software — **Spring Boot in the backend**, **Angular in the 
 
 
 ## Contact
-[LinkedIn](www.linkedin.com/in/benedikt-lind-5970242a1) · [GitHub](https://github.com/Blindworks)
+[LinkedIn](https://www.linkedin.com/in/benedikt-lind-5970242a1/) · [GitHub](https://github.com/Blindworks)
