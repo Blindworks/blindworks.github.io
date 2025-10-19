@@ -1,0 +1,12 @@
+title: "Blindworks — Full‑Stack Developer"
+description: "Java/Spring Boot · Angular · Architecture Notes & Projects"
+theme: minimal
+logo: /assets/img/avatar.png
+show_downloads: false
+github:
+is_project_page: false
+is_user_page: true
+plugins:
+- jekyll-seo-tag
+- jekyll-sitemap
+url: "https://blindworks.github.io"
