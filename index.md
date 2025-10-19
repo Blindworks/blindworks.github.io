@@ -10,15 +10,10 @@ I build pragmatic software — **Spring Boot in the backend**, **Angular in the 
 
 
 ## Projects
-- **Flow‑Market Platform**
+- **Floh‑Market Platform**
 *Stack:* Angular 18 · Angular Material · Spring Boot 3.3 · MySQL
 *Features:* Registration, stand applications, events (with image & timeframe), Google Maps markers, JWT auth.
 [Repo →](https://github.com/Blindworks/flow-markt) · [Demo (Netlify) →](https://blindworks-flow.netlify.app)
-
-
-- **SWC ↔ SkyChain Integration**
-*Stack:* Java 21 · Spring Boot · Scheduler · OpenAPI
-*Notes:* SPOT Rate Export, change detection.
 
 
 - **RPI Inventory Scanner**
